@@ -1,7 +1,12 @@
 # Theis Files
 Thesis and MATLAB codes used for final year project done at AAiT.
+Prerequisites for visualizing the Digital_Communication_App.mlapp file
 
-Prerequisites for Deployment of The Digital Communication Application.mlapp file.
+. Use MATLAB R2017a (the latest version).
+
+OR deploy Digital_Communication_System.exe as follows:
+
+Prerequisites for Deployment of The Digital_Communication_System.exe file.
 
 . Verify the MATLAB Runtime is installed and ensure you    
   have installed version 9.2 (R2017a).   
