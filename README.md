@@ -1,5 +1,5 @@
 # Theis Files
-Thesis and MATLAB codes used for final year project done at AAiT.
+Thesis.pdf and MATLAB codes used for final year project done at AAiT.
 Prerequisites for visualizing the Digital_Communication_App.mlapp file
 
 . Use MATLAB R2017a (the latest version).
