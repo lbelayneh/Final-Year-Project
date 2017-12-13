@@ -1,35 +1,10 @@
 # Theis Files
 Thesis.pdf and MATLAB codes used for final year project done at AAiT.
-Prerequisites for visualizing the Digital_Communication_App.mlapp file
+Prerequisites for visualizing the Digital_Communication_App.exe file
 
-. Use MATLAB R2017a (the latest version).
+  (1) run the MATLAB Runtime installer found on this link below.
+      https://drive.google.com/file/d/16w5_ioIywkp1sjgxrB7DSCXGBpZSQDP1/view?usp=sharing
 
-OR deploy Digital_Communication_System.exe as follows:
+  (2) After finishing (1), run the Digital_Communication_App.exe found on the uploaded files in Git Hub or on the link below.
+      https://drive.google.com/file/d/1rpe194Zf6PaRgHVKpLSiEY2XauYY0QlV/view?usp=sharing
 
-Prerequisites for Deployment of The Digital_Communication_System.exe file.
-
-. Verify the MATLAB Runtime is installed and ensure you    
-  have installed version 9.2 (R2017a).   
-
-. If the MATLAB Runtime is not installed, do the following:
-  (1) enter
-  
-      >>mcrinstaller
-      
-      at MATLAB prompt. The MCRINSTALLER command displays the 
-      location of the MATLAB Runtime installer.
-
-  (2) run the MATLAB Runtime installer.
-
-Or download the Windows 64-bit version of the MATLAB Runtime for R2017a 
-from the MathWorks Web site by navigating to
-
-   http://www.mathworks.com/products/compiler/mcr/index.html
-   
-   
-For more information about the MATLAB Runtime and the MATLAB Runtime installer, see 
-Package and Distribute in the MATLAB Compiler documentation  
-in the MathWorks Documentation Center.    
-
-
-NOTE: You will need administrator rights to run MCRInstaller.
