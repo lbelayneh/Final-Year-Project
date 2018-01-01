@@ -11,7 +11,7 @@ Prerequisites for visualizing the Digital_Communication_App.exe file
   (3) Below is the link for the gray scale digital image- Lena which can be used for simulation.    
       https://drive.google.com/file/d/1EppvmrsHm0fA6bv7_fdYe61RnIBFT9TI/view?usp=sharing
 
-If you use FeelDigi in your research, we would appreciate your online citation in any publications to which it has contributed and inclusion of your works to software.
+If you use FeelDigi in your research, we would appreciate your online citation in any publications to which it has contributed and inclusion of your works in the software.
 
 For further information you can contact:
                 - Dereje Hailemariam (Ph. D.): Principal Investigator of the project. e-mail: derejehmr@gmail.com
