@@ -1,5 +1,5 @@
-# Theis Files
-Thesis.pdf and MATLAB codes used for final year project done at AAiT.
+# FeelDigi
+Thesis.pdf and MATLAB codes used for final year project done at AAiT and FeelDigi- a MATLAB based simulator for digital communication system.
 Prerequisites for visualizing the Digital_Communication_App.exe file
 
   (1) run the MATLAB Runtime installer found on this link below.
@@ -8,3 +8,4 @@ Prerequisites for visualizing the Digital_Communication_App.exe file
   (2) After finishing (1), run the Digital_Communication_App.exe found on the uploaded files in Git Hub or on the link below.
       https://drive.google.com/file/d/1rpe194Zf6PaRgHVKpLSiEY2XauYY0QlV/view?usp=sharing
 
+If you use FeelDigi in your research, we would appreciate your online citation in any publications to which it has contributed and inclusion of your works to software.
