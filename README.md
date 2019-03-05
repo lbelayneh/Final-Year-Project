@@ -15,4 +15,4 @@ If you use FeelDigi in your works, we would appreciate your online citation in a
 
 For further information you can contact:
                 - Dereje Hailemariam (Ph. D.): Principal Investigator of the project. e-mail: derejehmr@gmail.com
-                - Leul Wuletaw: Student Researcher e-mail: wuletawleul@gmail.com
+                - Leul Wuletaw Belayneh: Student Researcher e-mail: wuletawleul@gmail.com
