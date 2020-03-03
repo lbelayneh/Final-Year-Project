@@ -13,5 +13,5 @@ Prerequisites for visualizing the Digital_Communication_App.exe file
 
 
 For further information you can contact:
-                - Dereje Hailemariam (Ph. D.): Principal Investigator of the project. e-mail: derejehmr@gmail.com
+                - Dereje Hailemariam (Ph. D.): Principal Investigator of the project. e-mail: dereje.hailemariam@aait.edu.et (derejehmr@gmail.com)
                 - Leul Wuletaw Belayneh: Student Researcher e-mail: wuletawleul@gmail.com
