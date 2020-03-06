@@ -1,5 +1,5 @@
 # FeelDigi
-Thesis.pdf and MATLAB codes used for final year project done at AAiT and FeelDigi- a MATLAB based simulator for digital communication system.
+MATLAB codes used for final year project done at AAiT and FeelDigi- a MATLAB based simulator for digital communication system.
 Prerequisites for visualizing the Digital_Communication_App.exe file
 
   (1) run the MATLAB Runtime installer found on this link below.
